@@ -1,4 +1,4 @@
-hi, i'm [Marc Ferreres](https://Marc89.me/), a Computer Science student from Spain. passionate about software development. 
+hi, i'm Marc Ferreres, a Computer Science student from Spain. passionate about software development. 
 
 - 🌾 Currently learning some frontend and backend basics
 - 🛠️ Working on Django 
