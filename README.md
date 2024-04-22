@@ -8,7 +8,6 @@ hi, i'm Marc Ferreres, a Computer Science student from Spain. passionate about s
 <p align="left">
 <a href="https://linkedin.com/in/marc-ferreres-zaragoza-15baa92b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://instagram.com/marc.ferreres" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
-</p>
   
 **Languages and tools:**  
 
