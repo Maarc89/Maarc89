@@ -2,7 +2,7 @@ hi, i'm Marc Ferreres, a Computer Science student from Spain. passionate about s
 
 - 🌾 Currently learning some frontend and backend basics
 - 🛠️ Working on Django 
-- 📫 Reach me at **marcferreresullde@gmail.com**
+- 📫 Reach me at **marcferrereszaragoza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
