@@ -1,7 +1,7 @@
-hi, i'm Marc Ferreres, a Computer Science student from Spain. passionate about software development. 
+hi, i'm Marc Ferreres, a Computer Science student from Spain. constantly developing my abilities. 
 
-- 🌾 Currently learning some frontend and backend basics
-- 🛠️ Working on Django 
+- 🌾 Currently learning some Docker
+- 🛠️ Working on Django and Java
 - 📫 Reach me at **marcferrereszaragoza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
