@@ -1,6 +1,6 @@
 hi, i'm Marc Ferreres, a Computer Science student from Spain. constantly developing my abilities. 
 
-- 🌾 Currently learning some Docker
+- 🌾 Currently learning some Scala
 - 🛠️ Working on Django and Java
 - 📫 Reach me at **marcferrereszaragoza@gmail.com**
 
