@@ -1,7 +1,7 @@
 hi, i'm Marc Ferreres, a Computer Science student from Spain. constantly developing my abilities. 
 
-- 🌾 Currently learning some Scala
-- 🛠️ Working on it&ot security basics
+- 🌾 Currently learning React
+- 🛠️ Working on it&ot security at Eurecat
 - 📫 Reach me at **marcferrereszaragoza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
