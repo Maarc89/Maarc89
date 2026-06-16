@@ -1,6 +1,7 @@
 hi, i'm Marc Ferreres, a Computer Science student from Spain. 
 
 - 📫 Reach me at **marcferrereszaragoza@gmail.com**
+- 👨‍💻 Take a look at one of my projects: https://www.idecor-yl.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
